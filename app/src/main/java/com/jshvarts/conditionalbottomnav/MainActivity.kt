@@ -34,6 +34,8 @@ import com.jshvarts.conditionalbottomnav.ui.theme.ConditionalBottomNavTheme
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 
+// https://www.valueof.io/blog/should-show-bottombar-conditionally-in-jetpack-compose
+
 class MainActivity : ComponentActivity() {
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
